@@ -3,8 +3,11 @@
 Author:     Brian Mascitello
 Date:       3/6/2016
 School:     Arizona State University
-Website:    http://pythonscraping.com/
+
 Book:       Web Scraping with Python by Ryan Mitchell
+Website:    http://pythonscraping.com/
+
+Info:       Reads a website using Python.
 """
 
 from urllib.request import urlopen
